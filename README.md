@@ -23,5 +23,6 @@ Prettier and Linter configuration
 
 I have tried my level best to try and match your expectations✨😊(PS i am just a pre-final year guy who has 1+ years of experience ,thanks to online classes i was able to learn a lot and work at various organizations /companies and was super productive.)
 
-#Screen-Shots:
+#Screen-Shots and more in Gdocs:
+<a href="https://docs.google.com/document/d/1a7z8lrOZmmtNyzwwyliZ7xOqcn21NNQeK99mj5F37hQ/edit?usp=sharing">CLICK HERE🥳✨😊</a>
 
