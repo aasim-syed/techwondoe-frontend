@@ -18,8 +18,8 @@ const initialFValues = {
     mobile: '',
     city: '',
     gender: '',
-    departmentId: '',
-    hireDate: new Date(),
+    Hireopt: '',
+    Bday: new Date(),
     isPermanent: false,
     password:'',
     confirmpassword:'',
@@ -144,9 +144,9 @@ export default function UserForm() {
                         items={genderItems}
                     />
                     <Controls.Select
-                        name="departmentId"
+                        name="Hireopt"
                         label="WILL I BE HIRED?😖😰😱"
-                        value={values.departmentId}
+                        value={values.Hireopt}
                         onChange={handleInputChange}
                         options={eeService.getDepartmentCollection()}
                         error={errors.departmentId}
@@ -154,7 +154,7 @@ export default function UserForm() {
                     <Controls.DatePicker
                         name="BDAY"
                         label="BIRTH DATE🥳🥳"
-                        value={values.hireDate}
+                        value={values.Bday}
                         onChange={handleInputChange}
                     />
                     
