@@ -1,14 +1,10 @@
 # PROJECT FOR TECHWONDOE ✨✨✨
 
-This project is FORMS WITH Material-UI and with UI in mind and UX for easier use.
-
-- Form Design
-- Form Validation
-- Insert new record on form submit
-
 TECHWONDOE-FRONTEND
 
 #So, to begin with I am deeply thankful for you people for giving me this opportunity I have long been waiting for. I’ll always be grateful for you people.
+
+I have tried my level best to try and match your expectations✨😊(PS i am just a pre-final year guy who has 1+ years of experience ,thanks to online classes i was able to learn a lot and work at various organizations /companies and was super productive.)
 
 #The given assignment was:
 A 4 step form using Material UI
@@ -21,7 +17,6 @@ Non Functional
 Prettier and Linter configuration
 
 
-I have tried my level best to try and match your expectations✨😊(PS i am just a pre-final year guy who has 1+ years of experience ,thanks to online classes i was able to learn a lot and work at various organizations /companies and was super productive.)
 
 #Screen-Shots and more in Gdocs:
 <a href="https://docs.google.com/document/d/1a7z8lrOZmmtNyzwwyliZ7xOqcn21NNQeK99mj5F37hQ/edit?usp=sharing">CLICK HERE🥳✨😊</a>
