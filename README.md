@@ -1,7 +1,7 @@
 # PROJECT FOR TECHWONDOE ✨✨✨
 
 TECHWONDOE-FRONTEND
-### INTRO🐶
+### INTRO🐶❤️
 So, to begin with I am deeply thankful for you people for giving me this opportunity I have long been waiting for. I’ll always be grateful for you people.
 
 I have tried my level best to try and match your expectations✨😊(PS i am just a pre-final year guy who has 1+ years of experience ,thanks to online classes i was able to learn a lot and work at various organizations /companies and was super productive.)
@@ -16,7 +16,11 @@ All collected data is stored in a JSON and posted to a dummy endpoint in the end
 ### Non Functional
 Prettier and Linter configuration
 
-
+## STEPS
+--> DOWNLOAD OR CLONE THE REPO<br>
+-->"npm install"<br>
+-->"npm start" OR "yarn start"<br>
+#### Prefer yarn as its faster⚡⚡
 
 ## Screen-Shots and more in Gdocs:
 <a href="https://docs.google.com/document/d/1a7z8lrOZmmtNyzwwyliZ7xOqcn21NNQeK99mj5F37hQ/edit?usp=sharing">CLICK HERE🥳✨😊</a>
@@ -33,4 +37,4 @@ Prettier and Linter configuration
 ## JSON FORMAT STORAGE
 <img src="/Images/json.png"></img>
 
-## HOPE YOU LIKED IT AND EAGER TO WORK WITH YOU🥺❤️🔥
+## HOPE YOU LIKED IT AND REALLY EAGER TO WORK WITH YOU🥺❤️🔥
