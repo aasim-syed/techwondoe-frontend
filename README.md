@@ -23,7 +23,10 @@ Prettier and Linter configuration
 
 <img src="/Images/1.png"></img>
 <img src="/Images/2fill.png"></img>
-## ERROR MESSAGES (CUSTOM )
+## AUDIO DISPLAY
+<img src="/Images/audiodisp.png"></img>
+## ERROR MESSAGES (CUSTOM)
+     
 <img src="/Images/3error.png"></img>
 <img src="/Images/4er.png"></img>
 <img src="/Images/passnot.png"></img>
