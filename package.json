@@ -1,6 +1,6 @@
 {
   "name": "aasim",
-  "hostname":"aasim-syed.github.io/techwondoe-frontend",
+  "hostname":"https://aasim-syed.github.io/techwondoe-frontend",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
